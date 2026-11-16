@@ -1,4 +1,4 @@
-<img src="https://www2.dotcms.com/dA/99fe3769-d649/256w/dotcms.png" title="dotcms - Universal content management system ">
+<img src="https://www.dotcms.com/assets/logo.svg" title="dotcms - Universal content management system ">
 
 
 # dotCMS Community
